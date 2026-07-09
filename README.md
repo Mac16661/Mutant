@@ -1,4 +1,4 @@
-# Mutant
+# Mutant MCP server
 
 > **Mutant is a multi-model genetic evolution framework that iteratively refines LLM responses to minimize hallucinations and maximize accuracy while reducing inference cost.**
 
