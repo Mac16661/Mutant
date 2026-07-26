@@ -1,7 +1,0 @@
-groq
-openai
-mpc
-FastMCP
-requests
-python-dotenv
-rich
