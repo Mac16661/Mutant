@@ -1,12 +1,12 @@
 # Mutant MCP server
 
-> **Mutant is a multi-model genetic evolution framework that iteratively refines LLM responses to minimize hallucinations and maximize accuracy while reducing inference cost.**
+> **Mutant is a multi-model genetic evolution engine that iteratively refines LLM responses to minimize hallucinations and maximize accuracy while reducing inference cost.**
 
 ---
 
 ## Overview
 
-Mutant is an evolutionary optimization framework for Large Language Models (LLMs).
+Mutant is an evolutionary optimization engine for Large Language Models (LLMs).
 
 Instead of relying on a single model, Mutant generates multiple candidate responses, evolves them through a genetic optimization process, and converges on a higher-quality final answer.
 
