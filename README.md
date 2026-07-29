@@ -195,8 +195,8 @@ The final response is returned to the MCP client (e.g., Claude Desktop).
 - [X] OpenAI
 - [X] Groq
 - [X] Ollama
+- [X] Gemini (via google ai studio)
 - [ ] Anthropic
-- [ ] Gemini
 - [ ] Benchmark
 - [ ] Token usage dashboard
 
