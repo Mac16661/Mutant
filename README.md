@@ -1,4 +1,19 @@
-# Mutant MCP server 
+<table>
+  <tr>
+    <td valign="middle">
+      <img
+        src="https://mutantai.org/fabicon.svg"
+        alt="Mutant"
+        width="42"
+        height="42"
+      >
+    </td>
+    <td valign="middle">
+      <h1>Mutant MCP Server</h1>
+    </td>
+  </tr>
+</table>
+
 </a>
     <a href="https://discord.gg/NFqcw572Q">
         <img class="dark-light" style="padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/discord/1220325004013604945?color=2f9d97&labelColor=0a1410&label=%20&logo=discord&logoColor=white">
