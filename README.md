@@ -1,8 +1,14 @@
 # Mutant MCP server 
-[![Discord](https://shields.io)](https://discord.gg/EdM3qdBC4)
-[![WEB](https://shields.io)](https://mutantai.org/)
+</a>
+    <a href="https://discord.gg/NFqcw572Q">
+        <img class="dark-light" style="padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/discord/1220325004013604945?color=2f9d97&labelColor=0a1410&label=%20&logo=discord&logoColor=white">
+</a>
+ </a>
+    <a href="https://mutantai.org/">
+        <img class="dark-light" style="padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/badge/WBSITE-MUTANTAI-ORG">
+</a>
 
-> **Mutant is a multi-model genetic evolution engine that iteratively refines LLM responses to minimize hallucinations and maximize accuracy while reducing inference cost.**
+**Mutant is a multi-model genetic evolution engine that iteratively refines LLM responses to minimize hallucinations and maximize accuracy while reducing inference cost.**
 
 ---
 
