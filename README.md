@@ -1,4 +1,4 @@
-# Mutant MCP server
+# Mutant MCP server [![Discord](https://shields.io)](https://discord.gg/EdM3qdBC4)
 
 > **Mutant is a multi-model genetic evolution engine that iteratively refines LLM responses to minimize hallucinations and maximize accuracy while reducing inference cost.**
 
