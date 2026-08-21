@@ -86,7 +86,7 @@ Mutant continuously evolves candidate responses until convergence or a stopping 
 - OpenAI API key / A Groq API key / Ollama
 - MutantAi License Key
 
-## Get your free License key
+## Get your free MutantAi License key
 
 **Obtain a Key:** Get your free license key at [https://mutantai.org](https://mutantai.org/#license).
 
