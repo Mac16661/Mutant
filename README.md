@@ -9,7 +9,7 @@
       >
     </td>
     <td valign="middle">
-      <h1>Mutant MCP Server</h1>
+      <h1>MutantAi MCP Server</h1>
     </td>
   </tr>
 </table>
