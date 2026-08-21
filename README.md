@@ -112,6 +112,8 @@ Examples:
         "-e", "OPENAI_API_KEY=sk-proj-...",
         "--models",
         "[{\"openai\":\"gpt-5.4-mini\"},{\"openai\":\"gpt-5.4-mini\"}]"
+        "--license_key",
+        "LIC-oxR..."
       ],
       "env": {}
     }
@@ -136,6 +138,8 @@ Run docker inside wsl:
         "-e", "GROQ_API_KEY=gsk_",
         "--models",
         "[{\"openai\":\"gpt-5.4-mini\"},{\"groq\":\"openai/gpt-oss-120b\"}]"
+        "--license_key",
+        "LIC-oxR..."
       ],
       "env": {}
     }
@@ -158,6 +162,7 @@ Mutant supports combining models from multiple providers in a single evolution p
 
 ```bash
 "--models", "[{\"ollama\":\"qwen3:8b\"},{\"ollama\":\"deepseek-r1:8b\"}]"
+"--license_key", "LIC-oxR..."
 
 "-e", "OLLAMA_URL=http://<HOST>:<PORT>/v1"
 "-e", "OLLAMA_API_KEY=ollama"
@@ -165,6 +170,7 @@ Mutant supports combining models from multiple providers in a single evolution p
 
 ```bash
 "--models", "[{\"ollama\":\"qwen3:14b\"},{\"ollama\":\"qwen3:14b\"}]"
+"--license_key", "LIC-oxR..."
 
 "-e", "OLLAMA_URL=http://<HOST>:<PORT>/v1"
 "-e", "OLLAMA_API_KEY=ollama"
@@ -174,6 +180,7 @@ Mutant supports combining models from multiple providers in a single evolution p
 
 ```bash
 "--models", "[{\"openai\":\"gpt-5.4-mini\"},{\"groq\":\"meta-llama/llama-4-scout-17b-16e-instruct\"},{\"ollama\":\"deepseek-r1:8b\"}]"
+"--license_key", "LIC-oxR..."
 
 "-e", "OPENAI_API_KEY=sk-proj-..."
 "-e", "GROQ_API_KEY=gsk_..."
