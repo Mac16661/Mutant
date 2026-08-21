@@ -82,9 +82,13 @@ Mutant continuously evolves candidate responses until convergence or a stopping 
 # Installation
 
 ## Prerequisites
-
 - Docker Desktop (or Docker Engine)
 - OpenAI API key / A Groq API key / Ollama
+- MutantAi License Key
+
+## Get your free License key
+
+**Obtain a Key:** Get your free license key at [https://mutantai.org](https://mutantai.org/#license).
 
 ## Pull the Docker image
 
@@ -95,7 +99,7 @@ docker pull mac16661/mutant-mcp:latest
 The image is now available locally and can be used by any MCP client that supports Docker.
 
 
-# MCP Integration
+## MCP Integration
 
 Examples:
 
