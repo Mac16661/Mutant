@@ -39,7 +39,7 @@ This approach enables:
 - Improved response accuracy
 - Lower inference costs
 - Local Inference
-- Better reasoning for complex engineering, programming, mathematics, and scientific problems
+- Better reasoning
 
 ---
 
