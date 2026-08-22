@@ -72,9 +72,10 @@ Mutant continuously evolves candidate responses until convergence or a stopping 
 
 - Multi-model reasoning
 - Genetic evolution of LLM responses
+- Reduce hallucination
+- Improve accuracy
 - Support Ollama for local inference
-- Compatible with OpenAI and Groq
-- Parallel execution
+- Compatible with OpenAI and Groq and more
 - MCP server support
 
 ---
